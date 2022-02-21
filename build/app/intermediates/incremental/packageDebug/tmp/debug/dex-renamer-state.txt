@@ -1,0 +1,4 @@
+#Mon Feb 21 10:12:16 ICT 2022
+base.0=C\:\\Users\\tranv\\Desktop\\NewBie Lab\\Firebase_Provider\\firebase_provider_authen\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
